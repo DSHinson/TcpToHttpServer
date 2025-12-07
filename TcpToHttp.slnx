@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CQRS.Tests/CQRS.Tests.csproj" />
+  <Project Path="CQRS/CQRS.csproj" />
+  <Project Path="TcpToHttp/TcpToHttp.csproj" />
+</Solution>

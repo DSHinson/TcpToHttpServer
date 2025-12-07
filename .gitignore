@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CQRS/bin/Debug/net10.0
+/CQRS/obj
+/CQRS.Tests/bin/Debug/net10.0
+/CQRS.Tests/obj
+/TcpToHttp/bin/Debug/net10.0
+/TcpToHttp/obj
